@@ -3,7 +3,7 @@
 
 <!--- - 🔭 I’m currently working on [monstarillo](https://github.com/mrpatrickwright/monstarillo.git) --->
 
-- 🌱 I’m currently learning **go, vue and kubernetes**
+- 🌱 I’m currently learning **go, java, vue and kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/mrpatrickwright](https://github.com/mrpatrickwright)
 
